@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it as below.
+title: TEST - ORPM Sandbox Validation - Do Not Cite
+authors:
+- family-names: Author
+  given-names: Test
+date-released: 2026-06-04
+version: 1.0.0
+abstract: Sandbox-only test record to validate ORPM, GitHub synchronization, and Zenodo deposit workflow.
+license: CC-BY-4.0
+identifiers:
+- type: doi
+  value: 10.5072/zenodo.508888
+  description: Zenodo deposition DOI
+doi: 10.5072/zenodo.508888
+preferred-citation:
+  cff-version: 1.2.0
+  message: If you use this work, please cite it as below.
+  title: TEST - ORPM Sandbox Validation - Do Not Cite
+  authors:
+  - family-names: Author
+    given-names: Test
+  date-released: 2026-06-04
+  version: 1.0.0
+  abstract: Sandbox-only test record to validate ORPM, GitHub synchronization, and Zenodo deposit workflow.
+  license: CC-BY-4.0
+  identifiers:
+  - type: doi
+    value: 10.5072/zenodo.508888
+    description: Zenodo deposition DOI
+  doi: 10.5072/zenodo.508888
